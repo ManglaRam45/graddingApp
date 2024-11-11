@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:graddingapp/home_page.dart';
-import 'package:graddingapp/pages/chat_page.dart';
+import 'package:graddingapp/pages/group_chat_page.dart';
 import 'package:graddingapp/pages/form_page.dart';
 
 import 'package:graddingapp/project/routes/route_const.dart';
